@@ -1,0 +1,11 @@
+[16-Jan-2024 02:33:25 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.2.34. in /home2/edufo5ow/nirvana-staging.cybonasites.tech/vendor/composer/platform_check.php on line 28
+[16-Jan-2024 02:33:26 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.2.34. in /home2/edufo5ow/nirvana-staging.cybonasites.tech/vendor/composer/platform_check.php on line 28
+[16-Jan-2024 02:33:50 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.2.34. in /home2/edufo5ow/nirvana-staging.cybonasites.tech/vendor/composer/platform_check.php on line 28
+[19-Jan-2024 19:29:35 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\StripeObject instance: country
+[19-Jan-2024 19:29:35 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\Charge instance: refunds
+[19-Jan-2024 19:30:28 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\StripeObject instance: country
+[19-Jan-2024 19:30:28 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\Charge instance: refunds
+[30-Jan-2024 22:19:25 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\StripeObject instance: country
+[30-Jan-2024 22:19:25 Asia/Kolkata] Stripe Notice: Undefined property of Stripe\Charge instance: refunds
+[31-Jan-2024 06:30:06 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.2.34. in /home/patlinirvan/public_html/vendor/composer/platform_check.php on line 28
+[14-Feb-2024 15:56:38 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118701480 bytes) in /home/patlinirvan/public_html/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 173
